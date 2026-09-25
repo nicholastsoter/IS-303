@@ -27,3 +27,4 @@ print(f"Destination: {destination}")
 print(f"Total cost: ${round(total_gas_cost, 2)}")
 print(f"Cost per person: ${round(cost_per_person, 2)}")
 
+#Thank you
