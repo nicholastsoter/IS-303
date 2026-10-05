@@ -1,3 +1,16 @@
-print("This is some code")
+numbers = [14,2,3,45,5]
 
-print("This is more code")
+#Function
+def isodd(numero):
+    odd = True
+    if numero % 2 == 0:
+        odd = False
+    return odd
+
+#Main Program
+for num in numbers:
+    if isodd(num):
+        print(f'{num} is odd')
+    else:
+        print(f'{num} is even')
+

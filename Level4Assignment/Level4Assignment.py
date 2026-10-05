@@ -52,4 +52,3 @@ print(f"\nSmall expenses: {small_expense}")
 print(f"Medium expenses: {medium_expense}")
 print(f"Large expenses: {large_expense}")
 
-
